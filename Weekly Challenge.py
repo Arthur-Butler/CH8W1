@@ -1,7 +1,7 @@
 strVal="fuck"
 charArr= ["!","@","#","$","%","^","&","*","(",")"]
 numArr= [1,2,3,4,5,6,7,8,9,0]
-swearArr= ["fuck","shit","poes","tranny","chink","dyke","faggot","nigg","kike","kaffer","cunt","tief","moffie","whore","hoer"]
+swearArr= ["fuck","shit","poes","tranny","chink","dyke","faggot","nigg","kike","kaffer","cunt","tief","moffie","whore","hoer","etter","fok","hotnot","naai"]
 charCount=0
 numCount=0
 swearCount=0
